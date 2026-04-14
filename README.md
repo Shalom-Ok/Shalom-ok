@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Ugochi 👋🏾
+Software engineer in the making from healthcare to code 💻 | Based in Dublin, Ireland 🇮🇪
+I'm a software engineer who transitioned from a healthcare background. I've shipped real client projects and I'm passionate about building things that make a difference.
+🚀 Projects
 
-<!--
-**Shalom-Ok/Shalom-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VolunteerHub — A platform connecting companies with volunteers | Built with Next.js, React and JavaScript
+DSG Electrical Website — Client website built in Next.js for a Dublin-based electrical contractor | Live Site
+Email Automation System — Built and shipped during my software engineering internship
+Weather Application — A weather app built with HTML, CSS and JavaScript
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Python · JavaScript · TypeScript · React · Next.js · HTML · CSS · SQL · Golang
+📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn
+📧 
