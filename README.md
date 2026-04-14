@@ -4,8 +4,11 @@ I'm a software engineer who transitioned from a healthcare background. I've ship
 🚀 Projects
 
 VolunteerHub — A platform connecting companies with volunteers | Built with Next.js, React and JavaScript
+
 DSG Electrical Website — Client website built in Next.js for a Dublin-based electrical contractor | Live Site
+
 Email Automation System — Built and shipped during my software engineering internship
+
 Weather Application — A weather app built with HTML, CSS and JavaScript
 
 🛠️ Tech Stack
