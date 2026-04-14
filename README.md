@@ -12,5 +12,5 @@ Weather Application — A weather app built with HTML, CSS and JavaScript
 Python · JavaScript · TypeScript · React · Next.js · HTML · CSS · SQL · Golang
 📫 Get in Touch
 
-💼 LinkedIn
-📧 
+💼 https://www.linkedin.com/in/ugochi-shalom-okpara
+📧 Ugochiokpara31@gamil.com
