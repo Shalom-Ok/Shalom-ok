@@ -17,3 +17,4 @@ Python · JavaScript · TypeScript · React · Next.js · HTML · CSS · SQL · 
 
 💼 https://www.linkedin.com/in/ugochi-shalom-okpara
 📧 Ugochiokpara31@gamil.com
+👩🏽‍💻 https://shalom-ok.github.io/ugo-portfolio/Ugo%27s%20website/
